@@ -1,5 +1,4 @@
-#Car class with Name, type and model of carclass Car(object)
- __init__()
+__init__()
  self.speed = 0
 
   def __init__(self, name='General', model='GM', vehicle_type=None):
